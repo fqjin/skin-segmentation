@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+codecov
+numpy
+scipy
+matplotlib
+opencv-python
+jupyter
+torch

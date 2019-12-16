@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pycharm
+.idea
+.git
+.venv
+
+# Data/Images
+*.png
+*.mat
+*.csv
+*.xlsx
+
+# Network files
+*.json
+*.npy
+*.npz
+*.pt
+
+# Other files
+*.txt
+*.sh
+
+# Other directories
+Nick/
+
+# Exceptions
+!requirements.txt
+!network/models/deep_epox80s1_BACKUP.pt
+!skin_widget/ruler.png
+!tests/test_img/
+!imgs/
