@@ -12,8 +12,8 @@ Two methods for segmenting skin on ultrasound B-mode images
 </p>
 
 ## Try out the methods:
-##### [Google Colab notebook]()
-##### [Jupyter notebook](Example.ipynb)
+#### [Google Colab notebook](https://colab.research.google.com/drive/1LucoMbMLKTz-mhcLrTGTWd_7D6peyqV7)
+#### [Jupyter notebook](Example.ipynb)
 
 ## Citation
 ```
