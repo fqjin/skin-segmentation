@@ -11,6 +11,8 @@ __pycache__/
 .venv
 
 # Data/Images
+*.bmp
+*.png
 *.mat
 *.csv
 *.xlsx
@@ -25,6 +27,12 @@ __pycache__/
 *.txt
 *.sh
 
+# Other directories
+Nick/
+
 # Exceptions
 !requirements.txt
 !network/models/deep_epox80s1_BACKUP.pt
+!tests/test_img/*
+!imgs/threshold.png
+!imgs/network.png

@@ -3,12 +3,13 @@
 [![codecov]()]
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# Ultrasound Skin Segmentation
+## Ultrasound Skin Segmentation
 Two methods for segmenting skin on ultrasound B-mode images
 
+<p>
 <img src="./imgs/threshold.png" width="500" height="200">
-<br />
 <img src="./imgs/network.png" width="400" height="200">
+</p>
 
 ## Try out the methods:
 ##### [Google Colab notebook]()
