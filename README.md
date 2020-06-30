@@ -15,17 +15,6 @@ Two methods for segmenting skin on ultrasound B-mode images
 #### [Google Colab notebook](https://colab.research.google.com/drive/1LucoMbMLKTz-mhcLrTGTWd_7D6peyqV7)
 #### [Jupyter notebook](Example.ipynb)
 
-## Citation
-```
-@inproceedings{jin2019comparison,
-  title={Comparison of Deep Learning and Classical Image Processing for Skin Segmentation},
-  author={Jin, Felix Q and Postiglione, Michael and Knight, Anna E and Cardones, Adela R and Nightingale, Kathryn R and Palmeri, Mark L},
-  booktitle={2019 IEEE International Ultrasonics Symposium (IUS)},
-  pages={1152--1155},
-  year={2019},
-  organization={IEEE}
-}
-```
 ## Acknowledgements
 This work was supported by the National Institutes of Health (R01 EB002132, R42 CA228159, T32 GM007171).
 
