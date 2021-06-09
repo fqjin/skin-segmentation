@@ -15,6 +15,20 @@ Two methods for segmenting skin on ultrasound B-mode images
 #### [Google Colab notebook](https://colab.research.google.com/drive/1LucoMbMLKTz-mhcLrTGTWd_7D6peyqV7)
 #### [Jupyter notebook](Example.ipynb)
 
+## Citation
+Please cite the following publication:
+```
+@article{jin2021semi,
+  title={Semi-automated weak annotation for deep neural network skin thickness measurement},
+  author={Jin, Felix Q and Knight, Anna E and Cardones, Adela R and Nightingale, Kathryn R and Palmeri, Mark L},
+  journal={Ultrasonic Imaging},
+  pages={01617346211014138},
+  year={2021},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA},
+  doi = {10.1177/01617346211014138}
+}
+```
+
 ## Acknowledgements
 This work was supported by the National Institutes of Health (R01 EB002132, R42 CA228159, T32 GM007171).
 
