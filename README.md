@@ -22,10 +22,13 @@ Please cite the following publication:
   title={Semi-automated weak annotation for deep neural network skin thickness measurement},
   author={Jin, Felix Q and Knight, Anna E and Cardones, Adela R and Nightingale, Kathryn R and Palmeri, Mark L},
   journal={Ultrasonic Imaging},
-  pages={01617346211014138},
+  volume={43},
+  number={4},
+  pages={167-174},
   year={2021},
   publisher={SAGE Publications Sage CA: Los Angeles, CA},
-  doi = {10.1177/01617346211014138}
+  doi={10.1177/01617346211014138},
+  note={PMID: 33971769}
 }
 ```
 
